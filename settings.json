@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Jotaha_Pehtaha",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "sgp3.bytenut.cc:10940",
+    "port": 10940,
     "version": "",
     "try-creative": false
   },
